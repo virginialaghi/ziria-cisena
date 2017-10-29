@@ -1,0 +1,74 @@
+body {
+  padding-top: 80px;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-family: Courier;
+  font-size: 15px;
+  color: black;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 30px;
+}
+
+nav h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 60px;
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 40px;
+  color: black;
+  text-align: center;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-family: Courier;
+  font-size: 15px;
+  font-style: italic;
+  text-align: center;
+  color: black;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+p {
+  font-family: Courier;
+  font-size: 12px;
+  color: black;
+  text-align: justify; 
+}
+
+.navbar {
+  background-color: white;
+  margin-bottom: 0px;
+  height: 100px;
+}
+
+.caption p {
+  font-family: Courier;
+  font-size: 12px;
+  color: black;
+  text-align: center;
+}
+
+
+
+
+
